@@ -7,10 +7,10 @@
 
     1) #!/bin/bash
     2) yum update -y
-    3) yum install -y https.x86_64
+    3) yum install -y httpd.x86_64
     4) systemctl start httpd.service
     5) systemctl enable httpd.service
-    6) echo "Hello World from $(hostname -f)" > /var/www/html/index.html
+        6) echo "Hello World from $(hostname -f)" > /var/www/html/index.html
 
 **EC2 Launch Types**
 
