@@ -55,7 +55,7 @@
     VPC Endpoint Gateway - S3 & Dynamo DB
     VPC Endpoint Interface -  the rest
 
-**Site to Site VPn & Diect Connect(DX)
+**Site to Site VPN & Direct Connect(DX)
     
     Site to Site VPN - Connect on-permise VPN to AWS over the public network
     Direct COnnect (DX) - Physical connection between on-permise and AWS over a private network
