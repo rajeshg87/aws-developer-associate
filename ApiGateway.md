@@ -8,7 +8,7 @@
         * Could manually combine with CloudFront (more control over caching)
 
     3) Private
-        * Can only accessed by VPC using an inreface VPC Endpoint (ENI)
+        * Can only accessed by VPC using an interface VPC Endpoint (ENI)
 
 **Canary Deployment**
 
